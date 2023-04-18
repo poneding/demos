@@ -1,0 +1,9 @@
+go 1.19
+
+use (
+	./goreleaser-demo
+	./grpc-demo
+	./lego-demo
+	./telepresence-demo
+	./mtls-demo
+)
